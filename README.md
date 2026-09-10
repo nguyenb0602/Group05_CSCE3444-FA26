@@ -5,8 +5,8 @@
 
 **Team Members**:
 - Bryan Nguyen - Team Lead
-- Oneal Egwuatu -
-- Tristan Okine -
+- Oneal Egwuatu - Developer
+- Tristan Okine - Developer
 
 **Project Link**: https://github.com/nguyenb0602/Group05_CSCE3444-FA26/projects
 
