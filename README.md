@@ -8,7 +8,9 @@
 - Oneal Egwuatu - Developer
 - Tristan Okine - Developer
 
-**Project Link**: https://github.com/nguyenb0602/Group05_CSCE3444-FA26/projects
+**Github Project Link**: https://github.com/nguyenb0602/Group05_CSCE3444-FA26/projects
+
+**StudyFlow Link**: https://main.dns9o38seaqsz.amplifyapp.com/
 
 **Current Status**: Complete.
 
